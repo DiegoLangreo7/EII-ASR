@@ -1,9 +1,6 @@
 <h1> Administración de Sistemas y Redes </h1>
 
 <table>
-  <tr>
-    <td>
-      <table>
         <thead>
           <tr>
             <th>Prácticas de Laboratorio</th>
@@ -29,10 +26,4 @@
             <td>Práctica 6: Configuración avanzada de una intranet con servidor Linux y recursos compartidos en Windows</td>
           </tr>
         </tbody>
-      </table>
-    </td>
-    <td>
-      <img src="imagen.webp" alt="Administración-Sistemas-Redes" width="500">
-    </td>
-  </tr>
 </table>
