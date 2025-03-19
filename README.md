@@ -25,5 +25,8 @@
           <tr>
             <td>Práctica 6: Configuración avanzada de una intranet con servidor Linux y recursos compartidos en Windows</td>
           </tr>
+          <tr>
+            <td>Práctica 7: Servidores Web en Linux: Apache</td>
+          </tr>
         </tbody>
 </table>
