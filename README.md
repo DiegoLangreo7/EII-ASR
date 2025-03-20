@@ -28,6 +28,9 @@
           <tr>
             <td>Práctica 7: Servidores Web en Linux: Apache</td>
           </tr>
+          <tr>
+            <td>Práctica 8: Instalación y Configuración de WordPress en un Servidor Windows</td>
+          </tr>
         </tbody>
 </table>
 
