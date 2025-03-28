@@ -31,6 +31,9 @@
           <tr>
             <td>Práctica 8: Instalación y Configuración de WordPress en un Servidor Windows</td>
           </tr>
+          <tr>
+            <td>1º Entrega Teoría: Creación y administración de un servidor Minecraft en máquina virtual Linux de Azure</td>
+          </tr>
         </tbody>
 </table>
 
