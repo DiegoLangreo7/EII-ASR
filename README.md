@@ -34,6 +34,9 @@
           <tr>
             <td>1º Entrega Teoría: Creación y administración de un servidor Minecraft en máquina virtual Linux de Azure</td>
           </tr>
+          <tr>
+            <td>2º Entrega Teoría: Automaticación con Ansible de la gestión de servidores de minecraft y acceso web</td>
+          </tr>
         </tbody>
 </table>
 
