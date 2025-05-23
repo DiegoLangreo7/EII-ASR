@@ -44,3 +44,6 @@
 <a href="https://www.interserver.net/cloud-apps.html">Colección de CMS</a>.
 <a href="https://www.opensourcecms.com/">Otra colección de CMS disponibles</a>.
 
+<h2> Autor </h2>
+[Diego García González](https://github.com/DiegoLangreo7)
+
