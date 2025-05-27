@@ -45,4 +45,4 @@
 <a href="https://www.opensourcecms.com/">Otra colección de CMS disponibles</a>.
 
 ## Autor
-[DiegoLangreo7(https://github.com/DiegoLangreo7)
+[DiegoLangreo7](https://github.com/DiegoLangreo7)
