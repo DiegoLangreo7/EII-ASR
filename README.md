@@ -44,5 +44,6 @@
 <a href="https://www.interserver.net/cloud-apps.html">Colección de CMS</a>.
 <a href="https://www.opensourcecms.com/">Otra colección de CMS disponibles</a>.
 
+---
 ## Autor
 [DiegoLangreo7](https://github.com/DiegoLangreo7)
